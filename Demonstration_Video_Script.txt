@@ -1,0 +1,49 @@
+================================================================================
+FORMULA 1 RACE INTELLIGENCE DASHBOARD (2010 - 2026)
+CAPSTONE DEMONSTRATION VIDEO SCRIPT (FOR POINT 16 SUBMISSION)
+================================================================================
+
+[0:00 - 0:35] INTRODUCTION (INTRODUCE YOURSELF HERE)
+--------------------------------------------------------------------------------
+"Hello everyone. My name is [YOUR_NAME_HERE], Enrollment Number [YOUR_ENROLLMENT_NO_HERE] from [YOUR_COLLEGE_NAME_HERE].
+
+Today I am presenting my Capstone Project: The Formula 1 Race Intelligence Dashboard Analysis Report, analyzing 6,464 race records across 17 seasons from 2010 to 2026. 
+
+Our interactive Tableau dashboard directly solves three real-world business scenarios across mid-tier performance strategy, live television sports broadcasting, and FIA regulatory compliance through 9 specialized visualizations."
+
+[0:36 - 1:45] SCENARIO 1: MR. ARNOLD / RAJAN (TEAM PERFORMANCE STRATEGIST)
+--------------------------------------------------------------------------------
+"Starting with Scenario 1: Rajan is a strategist for a mid-tier constructor aiming to climb the standings.
+
+- Visual 1 (Constructor Championship Trajectory Benchmark): In this multi-line chart, we benchmark our mid-tier team's points trajectory against Red Bull Racing and Mercedes-AMG. We clearly observe an average deficit of 498 points, helping us establish realistic developmental targets.
+
+- Visual 2 (Pirelli Tyre Compound Degradation Heatmap): This heatmap tracks pace delta loss across Soft, Medium, and Hard compounds against different circuit types. On high downforce circuits, a 1-stop strategy is optimal, whereas on high-energy circuits like Suzuka, the Soft tyre reaches a thermal cliff at Lap 18, necessitating a 2-stop strategy to offset the 22.4s pit penalty.
+
+- Visual 3 (Global Driver Talent Scouting Map): This geographical distribution highlights that drivers from the United Kingdom, Germany, Spain, and the Netherlands have scored over 70% of modern era championship points, giving our team clear talent acquisition priorities."
+
+[1:46 - 2:50] SCENARIO 2: MS. LISA / DIVYA (MOTORSPORT BROADCAST ANALYST)
+--------------------------------------------------------------------------------
+"Moving to Scenario 2: Divya prepares pre-race and post-race media graphics for television coverage.
+
+- Visual 4 (Driver Performance Leaderboard): This ranked bar chart provides instant access to cumulative points across all 17 seasons, with Lewis Hamilton leading at 4,825.5 points and Max Verstappen at 3,110.5 points, alongside race win counts.
+
+- Visual 5 (Global Host Countries Distribution): For geopolitical and track history context, this visual highlights that Italy has hosted 28 Grand Prix rounds, followed by Spain and the USA with 19 rounds each, and the UK with 18 rounds.
+
+- Visual 6 (Podium Achievement Distribution): This chart breaks down podium finishes across teams and drivers, showing that Mercedes and Red Bull together hold over 50% of all podium appearances in this era."
+
+[2:51 - 3:55] SCENARIO 3: MR. GILCHRIST / ARVIND (FIA TECHNICAL COMPLIANCE ANALYST)
+--------------------------------------------------------------------------------
+"Finally, in Scenario 3: Arvind audits whether FIA technical regulations have improved vehicle durability and track safety.
+
+- Visual 7 (DNF Failure Mode Classification): This 100% stacked bar chart shows that during the 2014 Turbo-hybrid introduction, engine and power unit failures spiked, but decreased by 48% as regulations matured into the Ground Effect era.
+
+- Visual 8 (Grid Reliability Progression): This multi-season trendline proves that race completion reliability rose from 81.8% in 2010 to 92.4% in 2026, validating that component quotas successfully reduced mechanical retirements.
+
+- Visual 9 (Driver Reliability Index): This stacked breakdown compares career starts against retirements, identifying Oscar Piastri at 93.9% and Lewis Hamilton at 92.0% as the most reliable finishers on the grid."
+
+[3:56 - 4:15] CONCLUSION
+--------------------------------------------------------------------------------
+"In conclusion, this Tableau Race Intelligence Dashboard transforms 6,464 raw race records into actionable strategic, media, and regulatory intelligence. 
+
+Thank you very much!"
+================================================================================
