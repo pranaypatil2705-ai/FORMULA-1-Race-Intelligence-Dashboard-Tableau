@@ -1,13 +1,14 @@
 ================================================================================
 FORMULA 1 RACE INTELLIGENCE DASHBOARD (2010 - 2026)
 CAPSTONE DEMONSTRATION VIDEO SCRIPT (FOR POINT 16 SUBMISSION)
+STUDENT: PRANAY PATIL | ENROLLMENT: EN25EL3010049 | MEDI-CAPS UNIVERSITY
 ================================================================================
 
-[0:00 - 0:35] INTRODUCTION (INTRODUCE YOURSELF HERE)
+[0:00 - 0:35] INTRODUCTION
 --------------------------------------------------------------------------------
-"Hello everyone. My name is [YOUR_NAME_HERE], Enrollment Number [YOUR_ENROLLMENT_NO_HERE] from [YOUR_COLLEGE_NAME_HERE].
+"Hello everyone. My name is Pranay Patil, Enrollment Number EN25EL3010049 from Medi-Caps University.
 
-Today I am presenting my Capstone Project: The Formula 1 Race Intelligence Dashboard Analysis Report, analyzing 6,464 race records across 17 seasons from 2010 to 2026. 
+Today I am presenting my Capstone Project for Data Analytics with Tableau: The Formula 1 Race Intelligence Dashboard Analysis Report, analyzing 6,464 race records across 17 seasons from 2010 to 2026. 
 
 Our interactive Tableau dashboard directly solves three real-world business scenarios across mid-tier performance strategy, live television sports broadcasting, and FIA regulatory compliance through 9 specialized visualizations."
 

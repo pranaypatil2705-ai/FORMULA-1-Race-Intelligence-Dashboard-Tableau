@@ -7,19 +7,16 @@
 
 ---
 
-## 🎓 Student Submission Metadata (Fill Your Details Here)
+## 🎓 Student Submission Metadata
 
-> **Please fill in your actual college credentials below before submitting to MySkillWallet:**
-
-| Field | Student Details Placeholder |
+| Field | Student Details |
 | :--- | :--- |
-| **Student Full Name:** | `[ENTER_YOUR_NAME_HERE]` |
-| **College Enrollment Number / Roll No:** | `[ENTER_YOUR_ENROLLMENT_NO_HERE]` |
-| **College / University Name:** | `[ENTER_YOUR_COLLEGE_NAME_HERE]` |
-| **Team / Student ID:** | `[ENTER_YOUR_TEAM_ID_HERE]` |
-| **Tableau Public Dashboard Link:** | `[PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE]` |
-| **Demonstration Video Link (Google Drive):** | `[PASTE_YOUR_PUBLIC_GOOGLE_DRIVE_VIDEO_LINK_HERE]` |
-| **GitHub Repository Link:** | `[PASTE_YOUR_GITHUB_REPO_LINK_HERE]` |
+| **Student Name:** | **Pranay Patil** |
+| **Enrollment Number:** | **EN25EL3010049** |
+| **College Email:** | **en25el3010049@medicaps.ac.in** |
+| **College / University:** | **Medi-Caps University** |
+| **Project Domain:** | Data Analytics with Tableau |
+| **GitHub Repository:** | [https://github.com/pranaypatil2705-ai/FORMULA-1-Race-Intelligence-Dashboard-Tableau](https://github.com/pranaypatil2705-ai/FORMULA-1-Race-Intelligence-Dashboard-Tableau) |
 
 ---
 
@@ -37,7 +34,7 @@ The platform addresses the operational requirements of three key stakeholders:
 
 ```
 ├── F1 Racing Project Dataset.xlsx                            # Master 5-sheet relational dataset (6,464 race records)
-├── FORMULA 1 Race Intelligence Dashboard - Project Report.pdf  # Comprehensive Capstone Final Report
+├── FORMULA 1 Race Intelligence Dashboard - Project Report.pdf  # Comprehensive Capstone Final Report (Pranay Patil)
 ├── Demonstration_Video_Script.txt                           # Word-by-word presentation script for screen recording
 ├── README.md                                                 # Project overview and submission documentation
 │
